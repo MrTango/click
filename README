@@ -1,4 +1,8 @@
-THIS IS USED FOR PLONECLI PACKAGE, UNTIL THE NEXT RELEASE!
+clack is click
+
+This release is based on a fork of click, check here: https://github.com/MrTango/click
+
+THIS IS USED FOR PLONECLI PACKAGE, UNTIL THE RELEASE HIGHER THAN 6.7 OF CLICK WAS MADE!
 
 $ click_
 

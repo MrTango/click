@@ -12,11 +12,11 @@ with open('click/__init__.py', 'rb') as f:
 
 
 setup(
-    name='click',
-    author='Armin Ronacher',
-    author_email='armin.ronacher@active-4.com',
+    name='clack',
+    author='Maik Derstappen',
+    author_email='md@derico.de',
     version=version,
-    url='http://github.com/pallets/click',
+    url='https://github.com/MrTango/click',
     packages=['click'],
     description='A simple wrapper around optparse for '
                 'powerful command line utilities.',
