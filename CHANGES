@@ -1,6 +1,11 @@
 Click Changelog
 ===============
 
+plonecli-click notes:
+
+7.0.dev0: build date 26.03.2018
+
+
 This contains all major version changes between Click releases.
 
 Version 7.0
@@ -14,7 +19,6 @@ Version 7.0
   Arguments. See #535.
 - The user is now presented with the available choices if prompt=True and
   type=click.Choice in a click.option. The choices are listed within
-7.0.build26032018 (2018-03-26)
 - The exception objects now store unicode properly.
 - Added the ability to hide commands and options from help.
 - Added Float Range in Types.
@@ -23,9 +27,9 @@ Version 7.0
 - ``launch`` now works properly under Cygwin. See #650.
 - `CliRunner.invoke` now may receive `args` as a string representing
   a Unix shell command. See #664.
-- Fix bug that caused bashcompletion to give improper completions on 
+- Fix bug that caused bashcompletion to give improper completions on
   chained commands. See #774.
-- 't' and 'f' are now converted to True and False. 
+- 't' and 'f' are now converted to True and False.
 - Fix bug that caused bashcompletion to give improper completions on
   chained commands when a required option/argument was being completed.
   See #790.
