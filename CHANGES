@@ -128,6 +128,12 @@ Version 6.0
 - For users running Python on Windows the `echo`) and `prompt` functions
   now work with full unicode functionality in the Python windows console
   by emulating an output stream.  This also applies to getting the
+7.0.dev1 (unreleased)
+---------------------
+
+- Nothing changed yet.
+
+
 7.0.dev0 (2018-03-26)
 - Unittests now always force a certain virtual terminal width.
 - Added support for allowing dashes to indicate standard streams to the
