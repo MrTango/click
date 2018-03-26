@@ -10,7 +10,7 @@ setup(
     name='plonecli-click',
     author='Maik Derstappen',
     author_email='md@derico.de',
-    version="7.0",
+    version="7.0.build26032018",
     url='https://github.com/MrTango/click',
     packages=['click'],
     description='A simple wrapper around optparse for '
