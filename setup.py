@@ -12,7 +12,7 @@ with open('click/__init__.py', 'rb') as f:
 
 
 setup(
-    name='clack',
+    name='plonecli-click',
     author='Maik Derstappen',
     author_email='md@derico.de',
     version=version,
