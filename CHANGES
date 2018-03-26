@@ -14,7 +14,7 @@ Version 7.0
   Arguments. See #535.
 - The user is now presented with the available choices if prompt=True and
   type=click.Choice in a click.option. The choices are listed within
-  parenthesis like 'Choose fruit (apple, orange): '.
+7.0.build26032018 (2018-03-26)
 - The exception objects now store unicode properly.
 - Added the ability to hide commands and options from help.
 - Added Float Range in Types.
